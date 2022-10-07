@@ -1,6 +1,6 @@
 <!--🖇🖇🖇🖇🖇-->
  <p align="center">
-   <img width="50" height="50" src="https://raw.githubusercontent.com/vivekpal1/mastercommandline/main/assets/linux.png?token=GHSAT0AAAAAABX3KXUIU3DJOEEWCMDI6EX6Y2AP32Q" alt="Logo">
+   <img width="50" height="50" src="./assets/linux.png" alt="Logo">
   </p>
   <h1 align="center"><b>Learn Linux</b></h1>
 <!--🖇🖇🖇🖇🖇-->
