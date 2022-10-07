@@ -1,6 +1,6 @@
 <!--🖇🖇🖇🖇🖇-->
  <p align="center">
-   <img width="50" height="50" src="./assets/linux.png" alt="Logo">
+   <img width="100" height="100" src="./assets/linux.png" alt="Logo">
   </p>
   <h1 align="center"><b>Learn Linux</b></h1>
 <!--🖇🖇🖇🖇🖇-->
