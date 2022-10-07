@@ -1,2 +1,2 @@
 # mastercommandline
-Lean linux commands and other things
+Learn linux commands and other things
