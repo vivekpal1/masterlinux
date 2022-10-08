@@ -13,6 +13,7 @@
   LINUX is an operating system or a kernel distributed under an open-source license. In simple words, an operating system is a software that enables the communication between computer hardware and software.
     <br />
     <br />
+    <a href="./Why/whylinux.md"><strong>Why Linux?</strong></a><br />
     <a href="./History/history.md"><strong>History</strong></a><br />
     <a href="./LinuxEverywhere/linuxeverywhere.md"><strong>Linux Everywhere</strong></a><br />
     <a href="./Distros/distros.md"><strong>Linux Distro</strong></a><br />
