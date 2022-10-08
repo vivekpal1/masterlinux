@@ -7,6 +7,7 @@
 <p align="center">
   Here is you can get started with Linux
     <br />
+    <br />
     <a href="#"><strong>History</strong></a><br />
     <a href="#"><strong>Linux Everywhere</strong></a><br />
     <a href="#"><strong>Linux Distro</strong></a><br />
