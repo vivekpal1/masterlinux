@@ -5,12 +5,16 @@
   <h1 align="center"><b>Learn Linux</b></h1>
   <h3 align="center"><b>This repo is under development, you can try to contribute.</b></h3>
 <!--🖇🖇🖇🖇🖇-->
+<br />
 <p align="center">
-  Here is you can get started with Linux
+  Here is you can get started with Linux.
+  This tutorial provides basic and advanced concepts of Linux, you can learn for free.
+  You can also help us by contributing this repository, and also try to solve any mistakes written in documentation.
+
     <br />
     <br />
-    <a href="#"><strong>History</strong></a><br />
-    <a href="#"><strong>Linux Everywhere</strong></a><br />
+    <a href="./History/history.md"><strong>History</strong></a><br />
+    <a href="./LinuxEverywhere/linuxeverywhere.md"><strong>Linux Everywhere</strong></a><br />
     <a href="#"><strong>Linux Distro</strong></a><br />
     <a href="#"><strong>Desktop Environment</strong></a><br />
     <a href="#"><strong>Command Line</strong></a><br />
