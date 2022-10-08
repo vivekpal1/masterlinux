@@ -9,15 +9,15 @@
 <p align="center">
   Here is you can get started with Linux.
   This tutorial provides basic and advanced concepts of Linux, you can learn for free.
-  You can also help us by contributing this repository, and also try to solve any mistakes written in documentation.
-
+  You can also help us by contributing this repository, and also try to solve any mistakes written in documentation. <br/>
+  LINUX is an operating system or a kernel distributed under an open-source license. In simple words, an operating system is a software that enables the communication between computer hardware and software.
     <br />
     <br />
     <a href="./History/history.md"><strong>History</strong></a><br />
     <a href="./LinuxEverywhere/linuxeverywhere.md"><strong>Linux Everywhere</strong></a><br />
-    <a href="#"><strong>Linux Distro</strong></a><br />
-    <a href="#"><strong>Desktop Environment</strong></a><br />
-    <a href="#"><strong>Command Line</strong></a><br />
+    <a href="./Distros/distros.md"><strong>Linux Distro</strong></a><br />
+    <a href="./DesktopEnv/desktopenv.md"><strong>Desktop Environment</strong></a><br />
+    <a href="./commadline/commandline.md"><strong>Command Line</strong></a><br />
     <a href="#"><strong>Users and root</strong></a><br />
     <a href="#"><strong>Package Management</strong></a><br />
     <a href="#"><strong>Processes</strong></a><br />
