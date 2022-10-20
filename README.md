@@ -3,6 +3,7 @@
    <img width="100" height="100" src="./assets/linux.png" alt="Logo">
   </p>
   <h1 align="center"><b>Master Linux</b></h1>
+  <h3 align="center"><b>The most comprehensive guide to deal with all Linux things and commands.</b></h3>
   <h3 align="center"><b>This repo is under development, you can try to contribute.</b></h3>
 <!--🖇🖇🖇🖇🖇-->
 <br />
