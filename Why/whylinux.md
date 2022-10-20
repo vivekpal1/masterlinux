@@ -32,3 +32,5 @@ Linux has a lot of great supported apps that are handy for many programmers. Whi
 <!-- To Do: Add links to words like Bash script -->
 If you need to program something a bit more specific and don't need to care about the language, you can "Bash script" using Linux's commands.
 
+## Customization
+Linux is, without a doubt, the most customizable OS on the planet. Unlike the alternatives, where you can customize the desktop experience with a wallpaper and maybe a set of icons on Linux, you can replace the whole desktop environment if it doesn’t look and function as you’d like. 
