@@ -5,5 +5,5 @@ Linux is Open Source and licensed under the GNU General Public License, which gi
 Many people have their set of requirements from an OS. Tech savvy people like to customize and tweak existing desktops. Thats why there are thoudands of Linux Distros we have.
 
 <p align="center">
-   <img width="1200" height="100%" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg" alt="Logo">
+   <img width="1200" height="100%" src="../assets/Linux_Distribution_Timeline.svg.png" alt="Logo">
 </p>
