@@ -18,7 +18,7 @@
     <a href="./History/history.md"><strong>History</strong></a><br />
     <a href="./LinuxEverywhere/linuxeverywhere.md"><strong>Linux Everywhere</strong></a><br />
     <a href="./Distros/distributions.md"><strong>Linux Distro</strong></a><br />
-    <a href="./DesktopEnv/desktopenv.md"><strong>Desktop Environment</strong></a><br />
+    <a href="./DesktopEnv/desktopenv.md"><strong>Desktop Environments</strong></a><br />
     <a href="./commadline/commandline.md"><strong>Command Line</strong></a><br />
     <a href="#"><strong>Users and root</strong></a><br />
     <a href="#"><strong>Package Management</strong></a><br />
