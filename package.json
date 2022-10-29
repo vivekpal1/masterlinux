@@ -1,0 +1,25 @@
+{
+  "name": "masterlinux",
+  "version": "1.0.0",
+  "description": "The most comprehensive guide to deal with all Linux things and commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekpal1/masterlinux.git"
+  },
+  "keywords": [
+    "linux",
+    "guide",
+    "open",
+    "source"
+  ],
+  "author": "Vivek Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekpal1/masterlinux/issues"
+  },
+  "homepage": "https://github.com/vivekpal1/masterlinux#readme"
+}
