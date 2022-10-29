@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/vivekpal1/masterlinux/issues"
   },
-  "homepage": "https://github.com/vivekpal1/masterlinux#readme"
+  "homepage": "https://github.com/vivekpal1/masterlinux#readme",
+  "dependencies": {
+    "mdbook": "^2.0.1"
+  }
 }
