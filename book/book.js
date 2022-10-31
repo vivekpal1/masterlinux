@@ -11,7 +11,7 @@ function playground_text(playground) {
         let editor = window.ace.edit(code_block);
         return editor.getValue();
     } else {
-        return code_block.innerText;
+        return code_block.textContent;
     }
 }
 
