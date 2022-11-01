@@ -1,6 +1,7 @@
 # Summary
 
 [Introduction](README.md)
+[Index](Index.md)
 
 - [Why Linux](whylinux.md)
 - [History](./History/history.md)
