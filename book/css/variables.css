@@ -91,23 +91,23 @@
 }
 
 .light {
-    --bg: rgb(229, 221, 231);
-    --fg: hsl(322, 36%, 10%);
+    --bg: hsl(0, 0%, 100%);
+    --fg: hsl(0, 0%, 0%);
 
-    --sidebar-bg: #f4effa;
-    --sidebar-fg: hsl(268, 64%, 10%);
-    --sidebar-non-existant: #a09aa5;
-    --sidebar-active: #4f33b4;
-    --sidebar-spacer: #eee7f0f1;
+    --sidebar-bg: #fafafa;
+    --sidebar-fg: hsl(0, 0%, 0%);
+    --sidebar-non-existant: #aaaaaa;
+    --sidebar-active: #1f1fff;
+    --sidebar-spacer: #f4f4f4;
 
-    --scrollbar: #88858b;
+    --scrollbar: #8F8F8F;
 
-    --icons: #736786;
-    --icons-hover: #100222;
+    --icons: #747474;
+    --icons-hover: #000000;
 
-    --links: #20289f;
+    --links: #20609f;
 
-    --inline-code-color: #120030;
+    --inline-code-color: #301900;
 
     --theme-popup-bg: #fafafa;
     --theme-popup-border: #cccccc;
@@ -126,8 +126,8 @@
     --searchbar-shadow-color: #aaa;
     --searchresults-header-fg: #666;
     --searchresults-border-color: #888;
-    --searchresults-li-bg: #ede4fe;
-    --search-mark-bg: #aaa2f5;
+    --searchresults-li-bg: #e4f2fe;
+    --search-mark-bg: #a2cff5;
 }
 
 .navy {
