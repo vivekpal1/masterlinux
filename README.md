@@ -32,6 +32,11 @@ This guide is created using [mdBook](https://github.com/rust-lang/mdBook). mdBoo
 
 ### Build from source using Rust
 You will first need to install Rust and Cargo. Follow the instructions on the [Rust installation page](https://www.rust-lang.org/tools/install).
+After installing rust,\
+Configure your current shell, run:
+```bash
+source "$HOME/.cargo/env"
+```
 
 The following command can be used to build and install mdBook:
 
