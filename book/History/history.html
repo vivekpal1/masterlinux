@@ -8,7 +8,6 @@
 
         <!-- Custom HTML head -->
         
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -34,13 +33,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -56,7 +55,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -68,7 +67,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -99,7 +98,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -132,7 +131,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -143,15 +142,10 @@
                 <div id="content" class="content">
                     <main>
                         <center><h2 id="history-of-linux"><a class="header" href="#history-of-linux">History of Linux</a></h2></center>
-To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
-<br/>
-A decade or so later, Richard Stallman started working on the GNU (GNU is Not UNIX) project, the GNU kernel called Hurd, which unfortunately never came to completion. The GNU General Public License (GPL), a free software license, was also created as a result of this.
- However, one thing that all these UNIX like-systems had in common was the lack of a unified kernel.
-<br/><br/>
-Linux is an operating system or a kernel which came as an idea in the mind of <strong> Linus Torvalds </strong> when he was a computer science student. He used to work on the UNIX which was a proprietary software, and thought that it needed improvements. But UNIX designers regected his idea. <br/>
-So he came up with launching an OS which will be receptive to changes, modifications suggested by its users. Or in other words an OS that will be Open Source.
-He created a Kernel named Linux and lauched it in 1991.
-<p>Today Linux is a very fast growing OS. It is everywhere in our phones, laptops, PCs, cars and even in refrigerators. It is very much famous among developers and normal computer users.</p>
+The history of Linux can be traced back to the early days of UNIX, which was developed by Ken Thompson and Dennis Ritchie at Bell Laboratories in 1969. UNIX was a proprietary operating system, but it was later rewritten in C, making it more portable and widely used.
+<p>In the 1980s, Richard Stallman, a software developer, started the GNU (GNU is Not UNIX) project, which aimed to create a free software version of UNIX. Stallman developed the GNU General Public License (GPL), a free software license, and the GNU kernel, called Hurd, which was never completed.</p>
+<p>In 1991, <strong>Linus Torvalds</strong>, a computer science student, was frustrated with the limitations of UNIX and decided to create his own operating system that would be open-source. He created a kernel called Linux and released it to the public. The Linux kernel was designed to be compatible with the existing GNU tools and utilities, and it quickly gained popularity among developers and users.</p>
+<p>Over time, various Linux distributions such as Debian, Ubuntu, and Red Hat, have been developed, each with its own unique features and tools. Linux has grown from a student's project to become one of the most widely used operating systems in the world, powering everything from supercomputers to smartphones. It's now commonly used by developers, businesses, governments, and individuals due to its stability, security, and flexibility.</p>
 
                     </main>
 
@@ -183,7 +177,7 @@ He created a Kernel named Linux and lauched it in 1991.
         </div>
 
         <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
+        <script>
             const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
             const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
             const socket = new WebSocket(wsAddress);
@@ -201,18 +195,18 @@ He created a Kernel named Linux and lauched it in 1991.
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 

@@ -1,12 +1,8 @@
 <center><h2>History of Linux</h2></center>
-To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
-<br/>
-A decade or so later, Richard Stallman started working on the GNU (GNU is Not UNIX) project, the GNU kernel called Hurd, which unfortunately never came to completion. The GNU General Public License (GPL), a free software license, was also created as a result of this.
- However, one thing that all these UNIX like-systems had in common was the lack of a unified kernel.
-<br/><br/>
-Linux is an operating system or a kernel which came as an idea in the mind of <strong> Linus Torvalds </strong> when he was a computer science student. He used to work on the UNIX which was a proprietary software, and thought that it needed improvements. But UNIX designers regected his idea. <br/>
-So he came up with launching an OS which will be receptive to changes, modifications suggested by its users. Or in other words an OS that will be Open Source.
-He created a Kernel named Linux and lauched it in 1991.
+The history of Linux can be traced back to the early days of UNIX, which was developed by Ken Thompson and Dennis Ritchie at Bell Laboratories in 1969. UNIX was a proprietary operating system, but it was later rewritten in C, making it more portable and widely used.
 
+In the 1980s, Richard Stallman, a software developer, started the GNU (GNU is Not UNIX) project, which aimed to create a free software version of UNIX. Stallman developed the GNU General Public License (GPL), a free software license, and the GNU kernel, called Hurd, which was never completed.
 
-Today Linux is a very fast growing OS. It is everywhere in our phones, laptops, PCs, cars and even in refrigerators. It is very much famous among developers and normal computer users.
+In 1991, <strong>Linus Torvalds</strong>, a computer science student, was frustrated with the limitations of UNIX and decided to create his own operating system that would be open-source. He created a kernel called Linux and released it to the public. The Linux kernel was designed to be compatible with the existing GNU tools and utilities, and it quickly gained popularity among developers and users.
+
+Over time, various Linux distributions such as Debian, Ubuntu, and Red Hat, have been developed, each with its own unique features and tools. Linux has grown from a student's project to become one of the most widely used operating systems in the world, powering everything from supercomputers to smartphones. It's now commonly used by developers, businesses, governments, and individuals due to its stability, security, and flexibility.
