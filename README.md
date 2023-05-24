@@ -17,7 +17,7 @@
 
 <!--🖇🖇🖇🖇🖇-->
 # Read
-You can just <a href="#">Start Here</a> reading.
+You can just <a href="https://masterlinux.vivekpal.in/">Start Here</a> reading.
 
 A book is organized into chapters. Each chapter is a separate page. Chapters can be nested into a hierarchy of sub-chapters. Typically, each chapter will be organized into a series of headings to subdivide a chapter.
 
@@ -25,6 +25,9 @@ A book is organized into chapters. Each chapter is a separate page. Chapters can
 
 
 <!--🖇🖇🖇🖇🖇-->
+
+# Support
+If you find this guide helpful and would like to show your support, you can sponsor me on https://github.com/sponsors/vivekpal1. Even a small contribution would be greatly appreciated.
 
 <!--🖇🖇🖇🖇🖇-->
 # Install and Build
