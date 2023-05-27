@@ -15,9 +15,9 @@ LINUX is an operating system or a kernel distributed under an open-source licens
 
 ## Prerequisites
 
-There are no essential prerequrements for this course. You can start with a very basic knowledge of Computers. But here are the few things you should keep in mind before taking this course.
+There are no essential pre-requirements for this course. You can start with a very basic knowledge of Computers. But here are a few things you should keep in mind before taking this course.
 
-### Software requrements
+### Software requirements
 
 - Any device to read this documentation
 - A Linux Desktop OS is required such as Ubuntu, Fedora, Debian, Manjaro, openSUSE, etc. But if you are not comfortable with it, don't worry we are going to install a Linux Distro in this tutorial.
