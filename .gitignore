@@ -2,6 +2,14 @@
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# mdbook
+book/
+*~
+.idea
+.DS_Store
+target
+tmp
+
 # dependencies
 /node_modules
 /.pnp
